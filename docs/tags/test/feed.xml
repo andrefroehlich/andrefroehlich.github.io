@@ -1,0 +1,44 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>André Fröhlich</title>
+      <link>https://www.andrefroehlich.com/blog</link>
+      <description>My personal blog.</description>
+      <language>en-us</language>
+      <managingEditor>hello@andrefroehlich.com (André Fröhlich)</managingEditor>
+      <webMaster>hello@andrefroehlich.com (André Fröhlich)</webMaster>
+      <lastBuildDate>Sun, 23 Jan 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.andrefroehlich.com/tags/test/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.andrefroehlich.com/blog/second-test</guid>
+    <title>Second test</title>
+    <link>https://www.andrefroehlich.com/blog/second-test</link>
+    <description>This is a second test</description>
+    <pubDate>Sun, 23 Jan 2022 00:00:00 GMT</pubDate>
+    <author>hello@andrefroehlich.com (André Fröhlich)</author>
+    <category>test</category>
+  </item>
+
+  <item>
+    <guid>https://www.andrefroehlich.com/blog/third-test-layout</guid>
+    <title>Third test layout</title>
+    <link>https://www.andrefroehlich.com/blog/third-test-layout</link>
+    <description>This is the third test</description>
+    <pubDate>Sun, 23 Jan 2022 00:00:00 GMT</pubDate>
+    <author>hello@andrefroehlich.com (André Fröhlich)</author>
+    <category>test</category>
+  </item>
+
+  <item>
+    <guid>https://www.andrefroehlich.com/blog/this-is-just-a-test</guid>
+    <title>This is just a test</title>
+    <link>https://www.andrefroehlich.com/blog/this-is-just-a-test</link>
+    <description>This post is just a test. This post is going to be deleted once I started to write real content.</description>
+    <pubDate>Sun, 23 Jan 2022 00:00:00 GMT</pubDate>
+    <author>hello@andrefroehlich.com (André Fröhlich)</author>
+    <category>test</category>
+  </item>
+
+    </channel>
+  </rss>
