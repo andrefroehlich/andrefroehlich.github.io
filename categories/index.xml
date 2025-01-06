@@ -4,7 +4,8 @@
     <title>Categories on André Fröhlich</title>
     <link>https://www.andrefroehlich.com/categories/</link>
     <description>Recent content in Categories on André Fröhlich</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.andrefroehlich.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://www.andrefroehlich.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
